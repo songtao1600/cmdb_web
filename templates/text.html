@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<select>
+    <option value="aa">111</option>
+    <option value="bb">222</option>
+    <option value="cc">333</option>
+</select>
+<script>
+    String.prototype.format = function (kwargs) {
+        var ret = this.replace(/\{(\w+)\}/g, function (km, m) {
+            return kwargs[m];
+        });
+        return ret;
+    };
+    //'text': {'content': '{n}-{m}', 'kwargs': {'n': '机柜', 'm': 'xx'}}
+
+    var td = $("<td>"); //创建td标签
+    td.attr('aa','td_aa'); //设置标签属性aa=‘td_aa’
+    td.html('哈哈哈哈'); //设置td标签文本值为'哈哈哈哈'
+    $("#tr_id1").append(td); //将新创建的td标签插到id为tr_id1的标签中
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24feee1e-6143-4b24-bef5-f921a0d0d802" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cmdb_web$text.coverage" NAME="text Coverage Results" MODIFIED="1526554777147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/templates" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DDL data source" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding>
+                <element signature="e#632#664#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asset.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/asset.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="145" column="56" selection-start-line="145" selection-start-column="56" selection-end-line="145" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OneToOneField</find>
+      <find>table_config</find>
+      <find>table_th</find>
+      <find>console</find>
+      <find>row</find>
+      <find>device_type_choices</find>
+      <find>xxx</find>
+      <find>getTextFromGlobalById</find>
+      <find>attr</find>
+      <find>$currentTr.addClass('success');</find>
+      <find>$currentTr.addClass('success')</find>
+      <find>success</find>
+      <find>idCheckboxReverse</find>
+      <find>initGlobalData</find>
+      <find>global_dict</find>
+      <find>item</find>
+      <find>selected</find>
+      <find>data_list</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/repository/models.py" />
+        <option value="$PROJECT_DIR$/cmdb_web/settings.py" />
+        <option value="$PROJECT_DIR$/cmdb_web/urls.py" />
+        <option value="$PROJECT_DIR$/web/urls.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/packaging_tool.py" />
+        <option value="E:/宋涛/day76/day75/web/views.py" />
+        <option value="$PROJECT_DIR$/templates/text.py" />
+        <option value="$PROJECT_DIR$/templates/text.html" />
+        <option value="$PROJECT_DIR$/templates/asset.html" />
+        <option value="$PROJECT_DIR$/web/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="77.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="112.0" />
+        <observation name="false" value="26.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="81.0" />
+        <observation name="false" value="13.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="15-5-2018">
+        <observation name="false" value="109.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="false" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="false" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="false" value="25.0" />
+        <observation name="true" value="21.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="134.0" />
+        <observation name="false" value="1.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="86.0" />
+        <observation name="false" value="5.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="false" value="37.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="134.0" />
+        <observation name="false" value="3.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="86.0" />
+        <observation name="false" value="5.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="false" value="34.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="134.0" />
+        <observation name="false" value="4.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="86.0" />
+        <observation name="false" value="7.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="false" value="46.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="134.0" />
+        <observation name="false" value="4.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="86.0" />
+        <observation name="false" value="8.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="false" value="25.0" />
+        <observation name="true" value="21.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="134.0" />
+        <observation name="false" value="4.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="86.0" />
+        <observation name="false" value="5.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="15-5-2018">
+        <observation name="false" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="false" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="false" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:accessible">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:expectedType">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:kind">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_javaInheritance">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_referenceList">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:recursion">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="15-5-2018">
+        <observation name="cancelled" value="199.0" />
+        <observation name="explicitSelect" value="87.0" />
+        <observation name="typedSelect" value="23.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="cancelled" value="330.0" />
+        <observation name="explicitSelect" value="105.0" />
+        <observation name="typedSelect" value="33.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="cancelled" value="109.0" />
+        <observation name="explicitSelect" value="68.0" />
+        <observation name="typedSelect" value="26.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="15-5-2018">
+        <observation name="BASIC" value="150.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="BASIC" value="206.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="BASIC" value="116.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="15-5-2018">
+        <observation name="count" value="309.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="count" value="468.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="count" value="203.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="112.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="51.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="81.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="25.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.013072" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.017844" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="112.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="51.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="81.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="25.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="0.200913" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="4.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.202091" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="0.363636" />
+        <observation name="count" value="275.0" />
+        <observation name="max" value="6.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.671076" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="0.208556" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="4.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.242791" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="-1103.639269" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="-1493.0" />
+        <observation name="variance" value="55026.775429" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="-1090.258182" />
+        <observation name="count" value="275.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1623.0" />
+        <observation name="variance" value="89595.836195" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="-1127.042781" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1564.0" />
+        <observation name="variance" value="44528.109345" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="-9.762557" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="10.0" />
+        <observation name="min" value="-101.0" />
+        <observation name="variance" value="454.471154" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="-41.0" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="10.0" />
+        <observation name="min" value="-102.0" />
+        <observation name="variance" value="2040.674001" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="average" value="1.010989" />
+        <observation name="count" value="91.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.792998" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="134.0" />
+        <observation name="average" value="1.428571" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.340136" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="86.0" />
+        <observation name="average" value="0.8" />
+        <observation name="count" value="15.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.540855" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="275.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="5.26484" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="13.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="5.641747" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="5.494545" />
+        <observation name="count" value="275.0" />
+        <observation name="max" value="14.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="7.039384" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="5.331551" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="17.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="6.538305" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="275.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="15-5-2018">
+        <observation name="UNDEFINED" value="110.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="UNDEFINED" value="138.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="UNDEFINED" value="94.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="7201.625571" />
+        <observation name="count" value="219.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="14115930.706867" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="6704.465455" />
+        <observation name="count" value="275.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="19401400.146404" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="6127.187166" />
+        <observation name="count" value="187.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="20232419.400939" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="15-5-2018">
+        <observation name="0" value="70.0" />
+        <observation name="1" value="14.0" />
+        <observation name="2" value="2.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="0" value="72.0" />
+        <observation name="1" value="24.0" />
+        <observation name="2" value="6.0" />
+        <observation name="3" value="1.0" />
+        <observation name="6" value="2.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="0" value="53.0" />
+        <observation name="1" value="12.0" />
+        <observation name="2" value="2.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="15-5-2018">
+        <observation name="total" value="26.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="total" value="71.0" />
+        <observation name="withMnemonics" value="4.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="total" value="41.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="15-5-2018">
+        <observation name="0" value="4.0" />
+        <observation name="1" value="57.0" />
+        <observation name="2" value="16.0" />
+        <observation name="3" value="7.0" />
+        <observation name="4" value="3.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="0" value="6.0" />
+        <observation name="1" value="28.0" />
+        <observation name="2" value="34.0" />
+        <observation name="3" value="22.0" />
+        <observation name="4" value="11.0" />
+        <observation name="5" value="2.0" />
+        <observation name="8" value="2.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="25.0" />
+        <observation name="2" value="21.0" />
+        <observation name="3" value="9.0" />
+        <observation name="4" value="7.0" />
+        <observation name="5" value="1.0" />
+        <observation name="6" value="1.0" />
+        <observation name="8" value="1.0" />
+        <observation name="9" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="15-5-2018">
+        <observation name="average" value="645.197368" />
+        <observation name="count" value="76.0" />
+      </dailyData>
+      <dailyData date="22-5-2018">
+        <observation name="average" value="757.2287" />
+        <observation name="count" value="223.0" />
+      </dailyData>
+      <dailyData date="23-5-2018">
+        <observation name="average" value="643.512397" />
+        <observation name="count" value="121.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cmdb_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdb_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdb_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdb_web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdb_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdb_web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdb_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdb_web" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmdb_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdb_web" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="DDL Data Source" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pytproject\cmdb_web\static" />
+      <recent name="E:\pytproject\cmdb_web\static\css" />
+      <recent name="E:\pytproject\cmdb_web\static\js" />
+      <recent name="E:\pytproject\cmdb_web\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.cmdb_web">
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdb_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cmdb_web" type="Python.DjangoServer" factoryName="Django server">
+      <module name="cmdb_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="cmdb_web.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8001" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.cmdb_web" />
+      <item itemvalue="Python.text" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24feee1e-6143-4b24-bef5-f921a0d0d802" name="Default" comment="" />
+      <created>1526393233743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526393233743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.32933104" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32933104" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.32647464" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32933104" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26805556" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965695" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="28" lean-forward="true" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" column="82" lean-forward="true" selection-start-line="140" selection-start-column="82" selection-end-line="141" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="100" column="25" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="57" lean-forward="true" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="100" column="25" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python35/Lib/site-packages/django/db/models/fields/related.py" />
+    <entry file="file://$PROJECT_DIR$/cmdb_web/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="124" column="36" selection-start-line="124" selection-start-column="36" selection-end-line="124" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb_web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/packaging_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="110" column="23" lean-forward="true" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/787a2dd8/e6a4efe2-ee37-4645-9736-45c91da9ce77/main.repository_asset" />
+    <entry file="das://table:/787a2dd8/e6a4efe2-ee37-4645-9736-45c91da9ce77/main.repository_idc" />
+    <entry file="file://E:/宋涛/day76/day75/templates/asset.html" />
+    <entry file="file://E:/宋涛/day76/day75/web/views.py" />
+    <entry file="file://$PROJECT_DIR$/repository/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/text.py" />
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python35/Lib/site-packages/django/db/models/query.py" />
+    <entry file="file://$PROJECT_DIR$/templates/asset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="145" column="56" selection-start-line="145" selection-start-column="56" selection-end-line="145" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
